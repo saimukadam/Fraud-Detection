@@ -48,7 +48,15 @@ To detect fraudulent transactions from large financial datasets using machine le
 
 ---
 
+## 📂 Resources
+- 🗂 **Dataset:** `creditcard.csv`  
+- 💻 **Code:** [Google Colab Notebook](https://colab.research.google.com/drive/1UpPxEqpV1_PFx7bXNwJuZ45GdM2qcskl?usp=sharing)  
+
+---
+
 ### 🧾 Conclusion
 This project highlights how machine learning models can effectively detect fraudulent activities in financial systems, supporting secure digital transactions.
 
 ---
+👨‍💻 **Created by:** [Sai Santosh Mukadam](https://www.linkedin.com/in/sai-mukadam-54a416267/)  
+📅 **Internship Project - Oasis Infobyte (Data Analytics)**
